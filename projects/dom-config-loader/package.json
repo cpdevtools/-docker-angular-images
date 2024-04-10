@@ -21,6 +21,6 @@
     "@types/node": "^20.11.16",
     "ts-node": "^10.9.2",
     "type-fest": "^4.10.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.5"
   }
 }

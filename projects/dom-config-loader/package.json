@@ -20,7 +20,7 @@
     "@cpdevtools/lib-node-utilities": "^0.4.62",
     "@types/node": "^20.11.16",
     "ts-node": "^10.9.2",
-    "type-fest": "^4.10.2",
+    "type-fest": "^4.17.0",
     "typescript": "^5.3.3"
   }
 }
